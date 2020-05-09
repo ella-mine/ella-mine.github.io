@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on ella ella ella</title>
+    <link>https://ella-mine.github.io/about/</link>
+    <description>Recent content in Abouts on ella ella ella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-hans</language>
+    <lastBuildDate>Fri, 08 May 2020 22:52:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://ella-mine.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://ella-mine.github.io/about/aboutme/</link>
+      <pubDate>Fri, 08 May 2020 22:52:29 +0800</pubDate>
+      
+      <guid>https://ella-mine.github.io/about/aboutme/</guid>
+      <description>🌈🌈Hello, my name is Ella!
+This is my Blog.</description>
+    </item>
+    
+  </channel>
+</rss>
