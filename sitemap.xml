@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ella-mine.github.io/</loc>
-    <lastmod>2020-05-08T22:37:47+08:00</lastmod>
+    <loc>https://ella-mine.github.io/about/</loc>
+    <lastmod>2020-05-08T22:52:29+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ella-mine.github.io/post/first-article/</loc>
+    <loc>https://ella-mine.github.io/</loc>
+    <lastmod>2020-05-08T22:52:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ella-mine.github.io/categories/</loc>
     <lastmod>2020-05-08T22:37:47+08:00</lastmod>
   </url>
   
@@ -18,7 +23,13 @@
   </url>
   
   <url>
-    <loc>https://ella-mine.github.io/categories/</loc>
+    <loc>https://ella-mine.github.io/categories/%E6%9D%82%E8%AF%B4/</loc>
+    <lastmod>2020-05-08T22:37:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ella-mine.github.io/post/first-article/</loc>
+    <lastmod>2020-05-08T22:37:47+08:00</lastmod>
   </url>
   
   <url>
